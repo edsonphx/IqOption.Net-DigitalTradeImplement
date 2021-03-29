@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edson\\source\\repos\\IQ-OptionOMS\\IqOptionApi.NET\\IqOptionApi.NET.csproj",
+      "projectUniqueName": "C:\\Users\\edson\\source\\repos\\IqOption.Net-DigitalTradeImplement\\IqOptionApi.NET\\IqOptionApi.NET.csproj",
       "projectName": "iqoptionapi",
-      "projectPath": "C:\\Users\\edson\\source\\repos\\IQ-OptionOMS\\IqOptionApi.NET\\IqOptionApi.NET.csproj",
+      "projectPath": "C:\\Users\\edson\\source\\repos\\IqOption.Net-DigitalTradeImplement\\IqOptionApi.NET\\IqOptionApi.NET.csproj",
       "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edson\\source\\repos\\IQ-OptionOMS\\IqOptionApi.NET\\obj\\",
+      "outputPath": "C:\\Users\\edson\\source\\repos\\IqOption.Net-DigitalTradeImplement\\IqOptionApi.NET\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

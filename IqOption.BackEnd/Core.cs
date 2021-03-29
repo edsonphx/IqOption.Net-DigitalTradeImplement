@@ -27,20 +27,20 @@ namespace IqOption.BackEnd
         {
             return await _trader.ConnectAsync();
         }
-        public async Task<bool> ConnectFollowersAsync()
+        public async Task<IDictionary<string, bool>> ConnectFollowersAsync()
         {
-            if (Followers is null) return true;
+            if (Followers is null) return null;
 
-            foreach (var account in Followers.Values)
+            var result = new Dictionary<string, bool>();
+
+            foreach (var account in Followers)
             {
-                var isConnected = await account.ConnectAsync();
+                var isConnected = await account.Value.ConnectAsync();
 
-                if (isConnected)
-                    continue;
-
-                return false;
+                result.Add(account.Key, isConnected);
             }
-            return true;
+
+            return result;
         }
         public async Task<decimal> GetBalanceMainAccountAsync() => await _trader.GetBalanceAsync();
 
