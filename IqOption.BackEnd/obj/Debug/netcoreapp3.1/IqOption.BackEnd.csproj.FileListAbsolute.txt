@@ -1,0 +1,14 @@
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\IqOption.BackEnd.deps.json
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\IqOption.BackEnd.dll
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\IqOption.BackEnd.pdb
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\IqOptionApi.dll
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\IqOptionApi.pdb
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.csprojAssemblyReference.cache
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.AssemblyInfo.cs
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.csproj.CopyComplete
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.dll
+C:\Users\edson\source\repos\IQ-OptionOMS\ConsoleApp1\obj\Debug\netcoreapp3.1\IqOption.BackEnd.pdb

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>IqOption.BackEnd</AssemblyName>
+    <RootNamespace>IqOption.BackEnd</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IqOptionApi.NET\IqOptionApi.NET.csproj" />
+  </ItemGroup>
+
+</Project>

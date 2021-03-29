@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IqOptionApi.NET", "IqOptionApi.NET\IqOptionApi.NET.csproj", "{7386A7FB-AF9C-4822-9A04-6A51099ADE48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IqOption.BackEnd", "ConsoleApp1\IqOption.BackEnd.csproj", "{88706BAA-ED84-4856-887E-F59B017C47DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7386A7FB-AF9C-4822-9A04-6A51099ADE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88706BAA-ED84-4856-887E-F59B017C47DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83DE677E-B103-40C1-8FA2-EB46FC1BB579}
+	EndGlobalSection
+EndGlobal
