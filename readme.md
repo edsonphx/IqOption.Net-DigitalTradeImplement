@@ -1,0 +1,1 @@
+Esse projeto utiliza a lib https://github.com/MongkonEiadon/IqOption.Net porém como ela estava desatualizada resolvi atualizar e implentar o envio de ordens digital
